@@ -52,6 +52,7 @@ class Level:
                     self.level_text(14, f'Player2 - Health: {ent.health} | Score: {ent.score} ', C_CYAN, (10, 45))
             for event in pygame.event.get():
                 if event.type == pygame.QUIT:
+                    pygame.quit()
                     quit()
                 if event.type == EVENT_ENEMY:
                     choice = random.choice(('Enemy1', 'Enemy2'))
