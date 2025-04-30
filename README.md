@@ -1,4 +1,4 @@
-![alt text](https://github.com/luis0taviio/Shoota/blob/master/asset/Player1.png?raw=true "Sky Shoota"). # Sky Shoota ![alt text](https://github.com/luis0taviio/Shoota/blob/master/asset/Player1.png?raw=true "Sky Shoota").
+![alt text](https://github.com/luis0taviio/Shoota/blob/master/asset/Player1.png?raw=true "Sky Shoota") # Sky Shoota ![alt text](https://github.com/luis0taviio/Shoota/blob/master/asset/Player1.png?raw=true "Sky Shoota")
 
 
 
